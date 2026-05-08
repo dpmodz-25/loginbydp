@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "Test Key",
       "userRank": "Supreme User"
+    },
+    "DPMods-FR9CZB": {
+      "hwid": "886A6ADEB2743084",
+      "expireDate": "Life",
+      "isBanned": false,
+      "banReason": "Test Key",
+      "userRank": "Supreme User"
     }
   }
 }
