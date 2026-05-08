@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "Test Key",
       "userRank": "Supreme User"
+    },
+    "DPMods-YJX0UI": {
+      "hwid": "886A6ADEB2743084",
+      "expireDate": "2026-06-07",
+      "isBanned": false,
+      "banReason": "Test Key",
+      "userRank": "Supreme User"
     }
   }
 }
